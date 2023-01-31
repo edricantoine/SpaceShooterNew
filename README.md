@@ -1,6 +1,9 @@
 SpaceShooters
 
-A retro-inspired 2D shoot-'em-up game. Repo had to be remade after the old one caught fire, and Xcode decided to be a pain.
+# Currently (probably) only works on Mac!
+
+A retro-inspired 2D shoot-'em-up game. Repo had to be remade after the old one caught fire, and Xcode decided to be a pain. Because I only own one development machine, it's a bit hard for me to check if it, you know, actually works on other machines.
+
 This application is a simple 2D shoot-'em-up game (think Space Invaders), which I decided to create as a way to get some practice with the C++ language as well as learn the basics of game development using the SDL2 graphics framework. I think the gameplay is simple enough to understand, and doesn't really require much explaining.
 
 I hope you enjoy!
