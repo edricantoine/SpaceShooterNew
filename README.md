@@ -9,6 +9,9 @@ This application is a simple 2D shoot-'em-up game (think Space Invaders), which 
 I hope you enjoy!
 
 To run this project:
+
+** PLEASE INSTALL THE SDL2, SDL2_ttf, SDL2_mixer, and SDL2_image frameworks. THIS IS A TEMPORARY (!) WORKAROUND UNTIL I FIX ISSUES WITH EMBEDDING THESE FRAMEWORKS WITHIN THE APP.**
+
 Use the executable file "SpaceShooters" in the outermost folder. DO NOT CHANGE FOLDER STRUCTURE OR THE GAME WON'T WORK!
 
 NOTE: THIS IS CURRENTLY A WORK IN PROGRESS.
