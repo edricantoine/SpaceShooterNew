@@ -1,4 +1,4 @@
-SpaceShooters
+# SpaceShooters
 
 # Currently (probably) only works on Mac!
 
