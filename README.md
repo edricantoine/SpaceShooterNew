@@ -12,6 +12,8 @@ To run this project:
 
 **PLEASE INSTALL THE SDL2, SDL2_ttf, SDL2_mixer, and SDL2_image frameworks. MAKE SURE THEY ARE IN YOUR /Library/Frameworks FOLDER. THIS IS A TEMPORARY (!) WORKAROUND UNTIL I FIX ISSUES WITH EMBEDDING THESE FRAMEWORKS WITHIN THE APP.**
 
+Get SDL2 here: https://www.libsdl.org/
+
 Use the executable file "SpaceShooters" in the outermost folder. DO NOT CHANGE FOLDER STRUCTURE OR THE GAME WON'T WORK!
 
 NOTE: THIS IS CURRENTLY A WORK IN PROGRESS.
